@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>欢迎来到江山</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css">  
+  <script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+  <script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+  <style type="text/css">
+    <!--
+    .h{
+        font-family: "微软雅黑";
+     background-image: url("https://ps.ssl.qhmsg.com/sdr/400__/t014b07b61bc44c4b89.jpg" );
+    }
+    h.img{width="990"height="990"  ;}
+    -->
+     </style>
+     <style>
+.jumbotron{
+	background-image: url("https://ps.ssl.qhmsg.com/sdr/400__/t014b07b61bc44c4b89.jpg");
+}
+</style>
+
+</head>
+<body class="h">
+        <nav class="navbar navbar-inverse">
+                <div class="container-fluid">
+                  <!-- Brand and toggle get grouped for better mobile display -->
+                  <div class="navbar-header">
+                      <span class="sr-only">Toggle navigation</span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="http://www.21js.com/">江山</a>
+                  </div>
+              
+                  <!-- Collect the nav links, forms, and other content for toggling -->
+                  <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav">
+                      <li class="active"><a href="https://baike.so.com/doc/5334314-5569752.html">江郎山<span class="sr-only">(current)</span></a></li>
+                      <li><a href="https://quzhou.cncn.com/jiangshan/">其他景点</a></li>
+                      <li class="dropdown">
+                        <a href="   " class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">历史文化<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                          <li><a href="https://baike.so.com/doc/548874-581097.html">地方文化</a></li>
+                          <li><a href="http://shop.bytravel.cn/produce/ms/index1299_list.html">风俗</a></li>
+                          <li><a href="https://baike.so.com/doc/548874-581097.html">宗教</a></li>
+                          <li><a href="http://tieba.baidu.com/p/439493284?traceid=">方言</a></li>
+                          <li role="separator" class="divider"></li>
+                          <li><a href="http://shop.bytravel.cn/produce/index1299.htm">特产</a></li>
+                        </ul>
+                      </li>
+                    </ul>
+
+                    <form class="navbar-form navbar-left">
+                      <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Search">
+                      </div>
+                      <button type="submit" class="btn btn-default">查找</button>
+                    </form>
+                  </div><!-- /.navbar-collapse -->
+                </div><!-- /.container-fluid -->
+              </nav>
+
+
+  <!-- Page Header -->
+              <header class="masthead" >
+                <div class="header" style="background-image: url()">
+
+                    <div class="jumbotron"> <div class="container">
+          <div class="site-heading">
+                      <h1 align="center"><b>江山欢迎你</b></h1>
+                      <p align="center" ><b>江山地处浙闽赣三省交界，是浙江省西南门户和钱江源头之一。</b></p> 
+                  </div></div></div></header>
+
+                    <div class="col-sm-4">
+     <a class="row" href="https://baike.so.com/doc/5334314-5569752.html" onclick="_hmt.push(['_trackEvent', 'imagelink', 'click', '江郎山'])" target="_blank">
+                            <img src="http://img.pconline.com.cn/images/upload/upc/tx/photoblog/1204/05/c14/11154487_11154487_1333634658250_mthumb.jpg" width="460"height="440" alt="https://baike.so.com/doc/5334314-5569752.html" onload="imgLoaded(this)">
+                            <h2><b>江郎山</b></h2> 
+                          </a>
+                       <p>
+                          <a href="https://baike.so.com/doc/5334314-5569752.html"color="rgb(195,200,195)"> <b>江郎山</b></a>
+                        </p>
+                        <p><b>江郎山，古称：玉郎山、金纯山<br>2010年8月作为“中国丹霞”的系列提名地之一列入世界自然遗产名录</b>
+                        <br><b >江郎山景区为国家级重点风景名胜区和国家级5A级景区</b>
+                        <br><b>由三爿石、十八曲、塔山、牛鼻峰、须女湖（青龙湖 曾用名）和仙居寺等部分组成</b>
+                        <br><b>景源类型以自然景观为主，同时也有丰富的人文景观 </b></p>
+                      </div>
+                      <div class="col-sm-4">
+                          <a class="row" href="https://baike.so.com/doc/2333649-2468191.html" onclick="_hmt.push(['_trackEvent', 'imagelink', 'click', '清漾毛氏宗祠'])" target="_blank">
+
+                       <img src="http://i1.go2yd.com/image.php?url=0K5McSD3nB"width="460"height="440">
+                        <h2><b>清漾毛氏宗祠</b></h2>
+                        <p> <a href="https://baike.so.com/doc/2333649-2468191.html"color="rgb(100,100,100)"> <b>清漾毛氏宗祠</b></a></p>
+                        <p><b>清漾村是浙江省级历史文化村<br> 清漾村为江南毛氏发源地，清漾毛氏人才辈出，千古年来，出过8个尚书、83个进士</b> 
+                        <br><b>2019年1月，清漾村入选第七批中国历史文化名村</b> 
+                        <br><b>清漾村是个贵而不富的“进士村”</b>
+                        <br><b>毛泽东韶山家谱中所记“毛氏祖居三衢”中的“三衢”</b>
+                        <br><b>便是指这个历史上共出过6个尚书，80个进士的清漾村</b></p>
+                      </div>
+                      <div class="col-sm-4">
+                          <a class="row" href="https://baike.so.com/doc/6063886-6276945.html" onclick="_hmt.push(['_trackEvent', 'imagelink', 'click', '浮盖山 '])" target="_blank">
+                        <img src="http://sh.people.com.cn/mediafile/201007/28/F201007281920320126102816.jpg"width="460"height="440">
+                        <h2><b>浮盖山</b> </h2>        
+                        <p><a href="https://baike.so.com/doc/6063886-6276945.html"><b>浮盖山 </b></a></p>
+                        <p><b>浮盖山，又名盖仙山，是仙霞岭山脉与武夷山脉结合部<br>主峰峰顶盘石垒叠，下者如盘，上者如盖，故名“浮盖山”</b>
+                        <br><b>景区内形态各异的顽石星罗棋布</b>
+                        <br><b>位于江山市境内部分开发较好，建有游步道</b>
+                        <br><b>浦城县境内未大规模开发，仍保留了景区内部的原始性，也具有独特的奇险性</b>
+                        <br><b>游客在山下十余里外,远远就能望见石人峰如一位危冠高坐的仙翁在守护着三省边境</b></p>
+                        </div>
+                      <div class="col-sm-4">
+                        <a class="row" href="https://baike.so.com/doc/7864100-8138195.html" onclick="_hmt.push(['_trackEvent', 'imagelink', 'click', '江山猕猴桃 '])" target="_blank">
+                            <img src="http://image-qzone.mamaquan.mama.cn/upload//2015/08/05/ab171042b45aea695009_w300X400_w192X256.jpg"width="460"height="440">
+                            <h2><b>江山猕猴桃</b> </h2>        
+                            <p><a href="https://baike.so.com/doc/7864100-8138195.html"><b>江山猕猴桃</b></a></p>
+                            <p><b>江山猕猴桃，又名甜梨、阳桃、白毛桃、毛梨子，植物，属于猕猴桃科，原产于中国。</b>
+                            <br><b>在世界上被誉为"水果之王"</b>
+                          </div>
+                      <div class="col-sm-4">
+                            <a class="row" href="http://shop.bytravel.cn/produce3/jiangshanfengmi.html" onclick="_hmt.push(['_trackEvent', 'imagelink', 'click', '蜂产品'])" target="_blank">
+                            <img src="http://file06.16sucai.com/2016/0430/70caac0acf1c0dc0751643c5cc678888.jpg"width="460"height="440">
+                            <h2><b>蜂产品</b> </h2>        
+                            <p><a href="http://shop.bytravel.cn/produce3/jiangshanfengmi.html "><b>蜂产品</b></a></p>
+                            <p><b>江山市是全国最大的养蜂市(县)2001年被农业部命名为“中国蜜蜂之乡”</b>
+                            <br><b>2001年被农业部命名为“中国蜜蜂之乡”</b>
+                          </div>
+                      <div class="col-sm-4">
+                            <a class="row" href="https://zj.zjol.com.cn/news/673188.html" onclick="_hmt.push(['_trackEvent', 'imagelink', 'click', '环城刀削面'])" target="_blank">
+                            <img src="https://stc.zjol.com.cn/g1/M001CDDCggSDllEXryATANbAACHVgk_i1I801.jpg?width=640&height=426 "width="460"height="440">
+                            <h2><b>环城刀削面</b></h2>
+                            <p> <a href="https://zj.zjol.com.cn/news/673188.html"color="rgb(100,100,100)"><b></b>环城刀削面</a></p>
+                            <p><b>家乡的味道</b>
+                            <br><b>回江山的第一件事情就是到环城西路吃刀削面，在外面那么久，还是这个味道最好</b>
+                            </p>
+                      </div>
+                    </div>
+                   </div>
+
+<!-- Bootstrap core JavaScript -->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+<!-- Custom scripts for this template -->
+<script src="js/clean-blog.js"></script>
+
+<hr>
+                  <div class="copyright">
+                      <div class="container">
+                          <div class="row">
+                              <div class="col-sm-12" align="center">
+                                  <span>Copyright &copy; <a href="https://quzhou.cncn.com/jiangshan/">江山旅游</a></span> 
+                                  <span><a href="http://www.miibeian.gov.cn/" target="_blank">京ICP备11008151号</a></span>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+
+                  <div id="bottom">
+                  <div id="bottomIn"><a href="http://www.mobanwang.com/about/aboutus.html" title="关于本站" target="_blank">关于本站</a>　|　
+                    <a href="http://www.mobanwang.com/about/copyright.html" title="下载须知" target="_blank">下载须知</a>　|
+                    　<a href="http://www.mobanwang.com/about/contactus.html" title="联系我们" target="_blank">联系我们</a>　|　
+                    <a href="http://www.mobanwang.com/SiteMap/Soft1.htm" title="网站地图" target="_blank">网站地图</a>　|
+                    　<a href="http://www.mobanwang.com/about/link.html" title="友情链接" target="_blank">友情链接</a>　|　
+                    <a href="http://www.mobanwang.com" title="网页模板">返回首页</a>　　　
+                    　 </div></div>
+                  <script>
+				$(document).ready(function(){
+					$(".dropdown").hover(            
+						function() {
+							$('.dropdown-menu', this).stop( true, true ).slideDown("fast");
+							$(this).toggleClass('open');        
+						},
+						function() {
+							$('.dropdown-menu', this).stop( true, true ).slideUp("fast");
+							$(this).toggleClass('open');       
+						}
+					);
+				});
+			</script>
+<span class="none">
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F187bfaafb5f82308c12b665c48fb42b2' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script language="javascript" type="text/javascript" src="http://js.users.51.la/776081.js"></script>
+<noscript><a href="http://www.51.la/?776081" target="blank"><img alt="&#x6211;&#x8981;&#x5566;&#x514D;&#x8D39;&#x7EDF;&#x8BA1;" src="http://img.users.51.la/776081.asp" style="border:none" /></a></noscript></span>
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"4","bdPos":"right","bdTop":"100"}};
+with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+
+                   
+</body>             ​
+  </html> 
